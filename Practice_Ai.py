@@ -85,7 +85,7 @@ array *= 2
 mask = array > 255
 array[mask] = 255
 print(mask)
-
+ # ---
 
 
 
